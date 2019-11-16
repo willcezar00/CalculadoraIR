@@ -8,6 +8,6 @@ O software considera  `tab` como separador no arquivo de input e o ultimo parâm
 
 Abra o `cmd` e navegue ate a pasta `Dist` na raiz do projeto, após isso execute o seguinte comando.
 
-> ImpostoDeRenda-v1.0.0.exe  "..\Data\input.exe" > "..\Data\output.exe" 
+> ImpostoDeRenda-v1.0.0.exe  "..\Data\input.txt" > "..\Data\output.txt" 
 
 Após a execução na pasta `Dist` será criado um arquivo `output.txt` com o resultado da execução
