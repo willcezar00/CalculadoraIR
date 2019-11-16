@@ -1,0 +1,22 @@
+﻿05834969038	João Carlos	N	5
+2569,35	salário
+1000,65	aposentadoria
+1500,32	pensão
+700,36	reforma
+500,58	outros
+47700375038	Maria Silva	N	4
+2569	salário
+1000	aposentadoria
+1500	aposentadoria
+700	reforma
+58208236055	Carlos Henrique	S	2
+4500,00	salário
+1500,58	outros
+42246773008	Jose Carlos Henrique	N	5
+2569,35	salário
+1000,65	aposentadoria
+1800,65	aposentadoria
+700,30	reforma
+1200,58	outros
+31793124086	Marcio Oliveira	N	1
+1500,00	salário
