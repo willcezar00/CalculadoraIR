@@ -16,10 +16,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Domain\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\ImpostoDeRenda\ImpostoDeRenda.csproj" />
   </ItemGroup>
 
