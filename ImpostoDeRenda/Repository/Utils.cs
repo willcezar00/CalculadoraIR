@@ -49,7 +49,7 @@ namespace ImpostoDeRenda.Repository
             return BOOL_BY_STRING_VALUE[realValue];
         }
 
-        private static string RemoveDiacritics(string text)
+        public  static string RemoveDiacritics(string text)
         {
             var normalizedString = text.Normalize(NormalizationForm.FormD);
             var stringBuilder = new StringBuilder();
